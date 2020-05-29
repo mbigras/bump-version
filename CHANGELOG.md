@@ -1,3 +1,6 @@
+## 0.4.0 (May 28, 2020)
+  - Add bump-version.sh
+
 ## 0.3.0 (May 28, 2020)
 
 
